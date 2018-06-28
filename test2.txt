@@ -4,3 +4,4 @@ this is need merge content by caopeisong
 wo xinjian
 di san ci ce shi
 还是我家的
+git status
